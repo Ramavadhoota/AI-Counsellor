@@ -1,0 +1,17 @@
+{
+  "name": "AI Study Abroad Counsellor",
+  "short_name": "Study Abroad",
+  "description": "AI-powered platform for personalized university counselling and application guidance",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#20B2AA",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
